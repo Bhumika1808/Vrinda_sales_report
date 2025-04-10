@@ -13,9 +13,11 @@ Relation between age and gender based on number of orders.
 Which Channel is contributing maximum to the sales?
 Highest selling category?
 Percentage of Total Orders delivered
-Dashboard Interaction <a href="https://github.com/Bhumika1808/Vrinda_sales_report/blob/main/dashboard_image.png">View Dashboard</a
+Dashboard Interaction <a href="https://github.com/Bhumika1808/Vrinda_sales_report/blob/main/dashboard_image.png">View Dashboard</a>
 ## Process
 Verify data for any missing values and anolamalies and sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
 Created pivot tables according to the question asked.
 Merge app pivot tables into one dash board and apply slicer to make dynamic.
+## Dashboard
+![dashboard_image](https://github.com/user-attachments/assets/3cb8f21e-1841-4ed7-85bd-29a18d122555)
